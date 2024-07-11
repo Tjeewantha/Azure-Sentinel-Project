@@ -30,6 +30,7 @@ Both creating will follow the same process but there are some unique changes to 
 When you are going to create the VMs, make sure to add them into DMZ-Sub subnet. And do not assign any public IP to them.
 
 Both VMs Networking should look like this in review stage.
+
 ![Vnet](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Screenshots/Screenshot%20%2811%29.png?raw=true)
 
 Once you deployed the VMs, go to the corresponding network interfaces of each VMs and change private Ip address settings from dynamic to static.
@@ -38,6 +39,7 @@ By considering the convenience to recognize the VMs, set static Ips to following
 
  - For windows – 10.10.10.70
  - For Linux – 10.10.10.80
+
 ![Vnet](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Screenshots/Screenshot%20%2828%29.png?raw=true)
 Do the same configuration to Linux VM
 
