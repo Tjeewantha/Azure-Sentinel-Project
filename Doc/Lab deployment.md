@@ -96,3 +96,6 @@ After route was created, you should assign that into relevance subnet.  In this 
 ![Vnet](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Screenshots/Screenshot%20%2814%29.png?raw=true)
 
 Now, you will be able to connect with the VMs not having any troubles.
+
+
+< [Backl](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/README.md) | [Next](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Doc/Sentinel%20configuration.md) >
