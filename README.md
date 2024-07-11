@@ -23,6 +23,6 @@ Note: During this project, make sure to put  all cloud resource under one Resour
 >Note: Azure sentinel training module will be installing at the end of the project. it ingests certain data into our sentinel so we can play around with them to gain experience in Incident response.
 
 ## Reference
-https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/
-https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources
-https://pulsedive.com/
+- https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/
+- https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources
+- https://pulsedive.com/
