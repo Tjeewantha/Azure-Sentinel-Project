@@ -98,3 +98,5 @@ If you expand more details of Threat Intelligence-TAXII data connector, it asks 
 As we are doing training project and not going to buy any subscriptions for Plusedive, we can play with test data it provides.
 
 ![Vnet](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Screenshots/Screenshot%20%2825%29.png?raw=true)
+
+< [Back](https://github.com/Tjeewantha/Azure-Sentinel-Project/blob/main/Doc/Lab%20deployment.md) | 
